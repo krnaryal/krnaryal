@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krnaryal&label=Profile%20views&color=0e75b6&style=flat" alt="krnaryal" /> </p>
 
-- 🌱 I’m currently learning **React and Node JS**
-
-- 💬 Ask me about **Microsoft Power Platform, Flutter, Dart, Java, Firebase**
-
 - 👨‍💻 All of my projects are available at [github.com/krnaryal](github.com/krnaryal)
 
 - 📫 How to reach me **aryalkiran100@gmail.com**
